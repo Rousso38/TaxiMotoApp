@@ -60,7 +60,7 @@ essayez { Compte GoogleSignInAccount = completeTask . getResult ( classe ApiExce
 }
 # License
 
-Copyright [yyyy] [ZIDOR Jean Rousso]
+Copyright [2020] [ZIDOR Jean Rousso, MANDAT Malincov, JEANTY Virlus]
  
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
