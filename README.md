@@ -1,4 +1,3 @@
-
 FINAL PROJECT- TAXI MOTO APP
 
 TaxiMotoApp: is an Android application that lets you register motorcycle taxi drivers and manage basic task elements, including adding new users.
@@ -76,6 +75,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
  
 App TAXI MOTO
+
 TaxiMoto
  
 
