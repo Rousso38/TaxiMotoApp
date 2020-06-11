@@ -1,4 +1,4 @@
-FINAL PROJECT- TAXI MOTO APP
+# FINAL PROJECT- TAXI MOTO APP
 
 TaxiMotoApp: is an Android application that lets you register motorcycle taxi drivers and manage basic task elements, including adding new users.
 
@@ -6,7 +6,7 @@ Submitted by: ZIDOR Jean Rousso
 
 Time spent: 6 hours spent in total
  
-User Stories
+# User Stories
 
 [] User can successfully Login from the OAVCT 
 
@@ -21,7 +21,7 @@ User Stories
  [] user can add money in his wallet  
  
  
-GIF created with LiceCap.
+# GIF created with LiceCap.
 
 Steps to integrate automatic connection with google account
 Intégration de la connexion Google dans votre application Android
@@ -58,7 +58,7 @@ essayez { Compte GoogleSignInAccount = completeTask . getResult ( classe ApiExce
 }
  
 }
-License
+# License
 
 Copyright [yyyy] [ZIDOR Jean Rousso]
  
@@ -74,8 +74,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
  
-App TAXI MOTO
+# App TAXI MOTO
 
-TaxiMoto
+# TaxiMoto
  
 
